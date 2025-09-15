@@ -1,4 +1,4 @@
-# Goodreads Recsys 📚✨
+# Goodreads Recsys 📖✨
 
 ## Project Overview
 **Goodreads Recsys** is an end-to-end recommendation system pipeline built on collaborative filtering (CF). It demonstrates the full workflow on Goodreads-style ratings data: data cleaning, quick EDA, training UserKNN & ItemKNN models (via `surprise`), evaluation with RMSE and Precision/Recall@K, and exporting example top-N recommendations. The repo is organized for clarity and reproducibility (comments, CLI flags, artifacts on disk, and a report scaffold).
