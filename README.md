@@ -36,10 +36,11 @@ Outputs will be saved in the `artifacts/` folder:
 ---
 
 ## Repo Structure
-code/         # pipeline code (goodreads_pipeline.py)
-reports/      # markdown reports & evaluation writeups
-artifacts/    # generated outputs (ignored in git)
-data/         # local datasets (ignored in git)
+
+code/ # pipeline code (goodreads_pipeline.py)
+reports/ # markdown reports & evaluation writeups
+artifacts/ # generated outputs (ignored in git)
+data/ # local datasets (ignored in git)
 README.md
 requirements.txt
 .gitignore
